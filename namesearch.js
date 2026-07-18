@@ -5,7 +5,7 @@ for(i=0;i<numbers.length;i++)
 {
    if(numbers[i] == num){
           alert("The number found: "+num+"\n"+"The position of the number is: "+i)
-          break
+        
    }
  else {
    alert("Not found")
