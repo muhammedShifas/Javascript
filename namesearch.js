@@ -7,7 +7,7 @@ for(i=0;i<numbers.length;i++)
           alert("The number found: "+num+"\n"+"The position of the number is: "+i)
           break
    }
- else if(i == numbers.length-1){
+ else {
    alert("Not found")
  }
 }
