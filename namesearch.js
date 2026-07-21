@@ -7,9 +7,9 @@ for(i=0;i<numbers.length;i++)
    if(numbers[i] == num)
    {
     found= true
-    if(found==true){
+
     alert("Number found "+"\n"+"The position of the number is: "+i)
-    }
+    
    }
 }
 
